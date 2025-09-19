@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+bukatamutumba.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1702564601|TYAJHuvuLLBb
+bukatamutumba.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=84
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01d72e6d165aff492e792a9f01a9126a81af0fec59a53b30a4a7b43fdf56e7a2dc65133c07481bcaf70be1c548a25b3362e223144c
+bukatamutumba.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	none
+
