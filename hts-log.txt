@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 14 Dec 2023 16:36:20 at https://bukatamutumba.wixsite.com/mysite +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bukatamutumba.wixsite.com/mysite -O1 "C:\My Web Sites\Mutumba Automobile" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:36:48	Error: 	"Not Found" (404) at link https://bukatamutumba.wixsite.com/ (from https://bukatamutumba.wixsite.com/mysite)
+16:37:08	Error: 	"Not Found" (404) at link https://bukatamutumba.wixsite.com/sitemap.xml (from https://bukatamutumba.wixsite.com/mysite)
+16:37:08	Error: 	"Not Found" (404) at link https://bukatamutumba.wixsite.com/feed.xml (from https://bukatamutumba.wixsite.com/mysite)
+16:37:08	Error: 	"Not Found" (404) at link https://bukatamutumba.wixsite.com/${n.uri} (from https://bukatamutumba.wixsite.com/mysite)
+16:37:08	Error: 	"Not Found" (404) at link https://bukatamutumba.wixsite.com/decodeURIComponent(e (from https://bukatamutumba.wixsite.com/mysite)
+16:37:08	Error: 	"Not Found" (404) at link https://bukatamutumba.wixsite.com/mysite/robots.txt (from https://bukatamutumba.wixsite.com/mysite/technology)
+16:37:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://bukatamutumba.wixsite.com/mysite/feed.xml (from https://bukatamutumba.wixsite.com/mysite/technology)
+16:37:08	Error: 	"Not Found" (404) at link https://bukatamutumba.wixsite.com/mysite/${n.uri} (from https://bukatamutumba.wixsite.com/mysite/technology)
+16:37:08	Error: 	"Not Found" (404) at link https://bukatamutumba.wixsite.com/mysite/decodeURIComponent(e (from https://bukatamutumba.wixsite.com/mysite/technology)
+16:37:12	Error: 	"Not Found" (404) at link https://bukatamutumba.wixsite.com/mysite/feed.xml (from https://bukatamutumba.wixsite.com/mysite/technology)
+
+HTTrack Website Copier/3.49-2 mirror complete in 52 seconds : 50 links scanned, 39 files written (4340910 bytes overall) [1337354 bytes received at 25718 bytes/sec], 4219316 bytes transferred using HTTP compression in 29 files, ratio 27%, 2.9 requests per connection
+(9 errors, 1 warnings, 0 messages)
